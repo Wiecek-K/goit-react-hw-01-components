@@ -2,7 +2,6 @@ import React from "react";
 import PropTypes from "prop-types";
 import css from "../style/Profile.module.css";
 
-console.log(css);
 export const Profile = ({
 	username,
 	tag,
