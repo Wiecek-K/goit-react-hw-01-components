@@ -22,8 +22,7 @@
 .location {
   color: darkgray;
 }
-.stats {
-}
+
 .stats > li {
   background-color: rgb(118, 196, 206);
   border: 1px solid black;
